@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 43a6a54740e9e90419256368f0c3033e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_rotateLeftRight: {fileID: 7033607091601226363, guid: 73766ebf36062494f863b64ebb4c35f1,
+      type: 3}
+  - m_moveUpDown: {fileID: 4500311720750220937, guid: 73766ebf36062494f863b64ebb4c35f1,
+      type: 3}
+  - m_moveForwardBackward: {fileID: 7782514932393101295, guid: 73766ebf36062494f863b64ebb4c35f1,
+      type: 3}
+  - m_moveLeftRight: {fileID: -5976127059665395924, guid: 73766ebf36062494f863b64ebb4c35f1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
