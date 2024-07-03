@@ -1,0 +1,23 @@
+{
+  "name": "be.terenceviseur.twoinputmanetjoystick",
+  "displayName": "TK input manet joystick",
+  "version": "0.0.1",
+  "unity": "2019.1",
+  "unityRelease": "",
+  "description": "Joystick",
+  "keywords": [ "Script", "Tool" ],
+  "relatedPackages": {},
+  "samples": [],
+  "author": {
+    "name": "Terence Viseur",
+    "mail": "",
+    "url": "https://github.com/TerenceViseur"
+  },
+  "repository": {
+    "type": "Git",
+    "url": "",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+}
